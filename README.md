@@ -4,6 +4,7 @@ Collection of notes and papers on reverse/bidirectional debugging
 ## Introduction
 ### Reviews
 > Perscheid, M., Siegmund, B., Taeumel, M., & Hirschfeld, R. (2017). Studying the advancement in debugging practice of professional software developers. Software Quality Journal, 25(1), 83–110.
+
 > Engblom, J., & Engblom, J. (2015). Review of Reverse Debugging, (January 2012).
 
 ### Record-replay
