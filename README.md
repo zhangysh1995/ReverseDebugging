@@ -1,7 +1,15 @@
 # Reverse Debugging
-Collection of notes and papers on reverse/bidirectional debugging
+Collection of notes and papers on reverse/bidirectional debugging. Please contact me if you use this repo for ANY purpose.
 
 ## Introduction
+### Why?
+*  to find execution path
+*  to track changes of desired variable
+*  no guessing to put breakpoints
+### How?
+### What?
+
+## Materials
 ### Reviews
 > Perscheid, M., Siegmund, B., Taeumel, M., & Hirschfeld, R. (2017). Studying the advancement in debugging practice of professional software developers. Software Quality Journal, 25(1), 83–110.
 
@@ -21,3 +29,11 @@ Collection of notes and papers on reverse/bidirectional debugging
 
 ### References
 [zhihu question 中文](https://www.zhihu.com/question/57574574)
+
+
+## Problems
+### Non-deterministic path
+* parallel
+* single-thread
+### Back to forward execution
+### Space and Time
